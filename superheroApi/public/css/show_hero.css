@@ -1,7 +1,7 @@
 body {
-    background: linear-gradient(45deg, #ff0000, #0000ff);
+    background: linear-gradient(45deg,  #00ff0d, #00ffaa);
     color: #fff;
-    font-family: 'Comic Sans MS', cursive, sans-serif;
+    font-family: 'Raleway', sans-serif;
     text-align: center;
     padding: 20px;
 }
@@ -73,7 +73,7 @@ table {
 }
 
 table, th, td {
-    border: 2px solid yellow;
+    border: 2px solid rgb(15, 15, 14);
 }
 
 th, td {
@@ -84,7 +84,7 @@ th, td {
 }
 
 th {
-    background: red;
+    background:rgb(174, 0, 255);
     font-size: 1.1rem;
     text-transform: uppercase;
 }
